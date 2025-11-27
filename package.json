@@ -1,0 +1,25 @@
+{
+  "name": "playwright-design-patterns",
+  "version": "1.0.0",
+  "description": "Playwright test project created entirely without AI assistance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando-cotrena/playwright-design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando-cotrena/playwright-design-patterns/issues"
+  },
+  "homepage": "https://github.com/fernando-cotrena/playwright-design-patterns#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
